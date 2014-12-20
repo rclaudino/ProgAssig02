@@ -3,7 +3,7 @@
 # author            <-  rclaudino, 2014-12-20
 # email             <-  rclaudino@fmh.ulisboa.pt
 # faculty-en        <-  c("human kinetics faculty", "lisbon university")
-# faculti-pt        <-  c("faculdade de motricidade humana", "universidade de lisboa")
+# faculty-pt        <-  c("faculdade de motricidade humana", "universidade de lisboa")
 # acronym           <-  c("FMH", "UL")
 # city              <-  c("lisbon", "lisboa")
 # country           <-  c("Portugal", "pt-PT")
